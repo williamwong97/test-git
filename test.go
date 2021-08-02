@@ -4,4 +4,4 @@ var (
 	a string
 )
 
-aaaa
+aaaaa
